@@ -19,7 +19,7 @@
 #### 语言 | Languages
 C/C++ (嵌入式方向 | For Embedded Development)、Python3、LaTeX、Excel、VisualBasic(Office宏 | For MSOffice Macro)
 #### 技术栈 | Platforms
-STM32HAL、Arduino、Conda、STM32Cube MX/IDE/Prog、H7TOOLS、DAPLink/Jlink、Git
+STM32HAL、Arduino、Conda、STM32Cube MX/IDE/Prog、SeggerRTT、DAPLink/Jlink、Git
 #### IDEs
 VS Code、CLion、Pycharm、STM32CubeIDE、ArduinoIDE、PlatformIO
 #### 图像处理与创建 | Graphic Works
